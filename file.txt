@@ -1,3 +1,4 @@
 This is the file that will be used for the task.
 
-1. This is the first commet to be made.
+1. This is the first commit to be made.
+2. This is the second commit to be made.
